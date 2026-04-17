@@ -17,4 +17,4 @@ A responsive weather search app built with React and Material UI. Search any cit
 - Material UI
 - OpenWeatherMap API
 - CSS
-- MERN
+- MERN Stack
